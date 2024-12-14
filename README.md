@@ -61,7 +61,8 @@ The required Python libraries are listed in the `requirements.txt` file:
 
 ## Demo
 
-![Iris Flower Prediction Demo](demo_image.png)
+![image](https://github.com/user-attachments/assets/3c07fc3e-d309-4ec3-a654-b5cd11a64db2)
+
 
 ---
 
